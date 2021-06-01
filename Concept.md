@@ -24,5 +24,6 @@
 - How is Github testing implemented? Testing on Github provided machines (2.000 free minutes a month) or a self managed machine? What is recommended / required?
 - How do you manage the scaling of the deployed instances? Directly in the AWS console or in Terraform Cloud?
 - Is this concept meeting all requirements? Is it realistic?
+- What about load balancing when scaling?
 - Does it meet this requirement? What exactly does it mean?
 > At least one service (e.g. VCS, Monitoring) other than the application has to be provisioned by yourself (no third-party as-a-service solution)
