@@ -9,7 +9,7 @@
 - As soon as an instance is online a script is executed automatically that connects to the database and starts the app
 - MongoDB is used in an atlas cluster to make it always available
 
-![Flow of Concept](https://ibb.co/L5Pk4Y4) Image of the CI / CD flow of the concept
+![Flow of Concept](https://i.ibb.co/74zY7j7/Screenshot-2021-09-10-at-21-58-25.png) Image of the CI / CD flow of the concept
 
 ###### Detailed breakup
 1. A pull request launches the CI workflow which tests the repository code before the branch can be merged
